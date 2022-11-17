@@ -7,10 +7,9 @@ Created on Fri Nov  4 01:27:59 2022
 """
 
 import lib_math as lb 
-<<<<<<< HEAD
-=======
+
+
 import numpy as np
->>>>>>> 7750237f54a7cd73799617da5260cb32bd3a8634
 import pandas as pd
 
 
